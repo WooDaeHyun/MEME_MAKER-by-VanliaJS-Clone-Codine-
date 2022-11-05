@@ -1,1 +1,1 @@
-# MEME_MAKER-by-VanliaJS-Clone-Codine-
+# MEME_MAKER-by-VanliaJS-Clone-Coding
